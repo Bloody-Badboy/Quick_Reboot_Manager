@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apprestarter">AppRestarter</string>
+    <string name="simplefastholo_material_them">Simple,Fast,Holo Material Themed OneClick AppRestarter</string>
+
+    <string name="restart_systemui">Restart SystemUI</string>
+    <string name="restart_settings">Restart Settings</string>
+    <string name="soft_reboot">Soft reboot</string>
+    <string name="reboot">Reboot</string>
+    <string name="reboot_recovery">Reboot recovery</string>
+    <string name="power_off">Power off</string>
+
+
+    <string name="app_name">Restarter</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
